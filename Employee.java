@@ -49,7 +49,7 @@ public class Employee {
 		System.out.println(n1.getId()+" " + n1.getSalary());
 		//System.out.println(n1.getId());
 		
-		/*System.out.println(n);
-		System.out.println(n1);*/
+		System.out.println(n);
+		System.out.println(n1);
 	}
 }
